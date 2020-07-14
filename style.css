@@ -1,0 +1,21 @@
+ul {
+    background-color: darkseagreen;
+    padding: 0px;
+
+}
+
+li {    
+    float: left;
+}
+
+li a {
+    padding: 10px;
+    background-color: lightgreen;
+    display: block;
+    color: mediumblue;
+}
+
+li a:hover {
+    background-color: mediumspringgreen;
+    font-style: italic;
+}
