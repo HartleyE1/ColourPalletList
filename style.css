@@ -36,3 +36,21 @@ h1 {
 body {
     background-color: lemonchiffon;
 }
+
+.colorPreviewBox {
+    height: 26px;
+    width: 21px;
+    float: left;
+    
+}
+
+.palletContainer {
+    background-color: white;
+    width: 220px;
+    padding: 50px;
+    float: left;
+}
+
+.palletContainerInner {
+    float: left;
+}
