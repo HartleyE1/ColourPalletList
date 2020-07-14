@@ -1,7 +1,10 @@
 ul {
     background-color: darkseagreen;
-    padding: 0px;
-
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  
 }
 
 li {    
@@ -9,13 +12,27 @@ li {
 }
 
 li a {
-    padding: 10px;
-    background-color: lightgreen;
     display: block;
     color: mediumblue;
+    text-align: center;
+    padding: 20px 22px;
+    text-decoration: none;
+
 }
 
 li a:hover {
     background-color: mediumspringgreen;
-    font-style: italic;
+}
+
+h1 {
+    font-family: cursive;
+    color: orchid;
+}
+
+#titleI {
+    color: palevioletred;
+}
+
+body {
+    background-color: lemonchiffon;
 }
